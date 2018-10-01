@@ -11,4 +11,4 @@ Hello everyone, I created the ghost admin template with bootstrap. There's an in
 
 You can use it for your small projects.
 
-* **Author**: Ferdi Sahin
+* **Author**: [Ferdi Sahin](https://www.ferdisahin.net)
